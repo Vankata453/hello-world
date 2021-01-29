@@ -1,8 +1,13 @@
 # Hello-World
-(Hello World repository, GitHub test.
-New branch test.) - Stuff from testing earlier
-
-To check out the wiki, please visit it. (It's more like a lorem-ipsum test there...)
+<details>
+  <summary>Old stuff from when testing GitHub's main functionality</summary>
+  <br>
+  Hello World repository, GitHub test.
+  New branch test.
+  <br><br>
+  To check out the wiki, please visit it. (It's more like a lorem-ipsum test there...)
+  <br><br>
+</details>
 
 Hello-World application is here! (Now I know git push and stuff...)
 
